@@ -1,4 +1,6 @@
-# ezgif-essentials
+# ezgif-essentials (fork by ari)
+
+### all i did was just create a script that runs `main.py` multiple times through all `.mp4` files in a specified target directory
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/winstxnhdw/ezgif-essentials.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/winstxnhdw/ezgif-essentials/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/winstxnhdw/ezgif-essentials.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/winstxnhdw/ezgif-essentials/context:python)
