@@ -2,6 +2,26 @@
 
 ### all i did was just create a script that runs `main.py` multiple times through all `.mp4` files in a specified target directory
 
+e.g.
+
+```bash
+
+python batch.py /home/ari/Videos/
+
+```
+
+if you want to delete the existing videos (currently works with .mp4 only for now btw)
+
+```bash
+
+python batch.py /home/ari/Videos/ -rm
+
+```
+
+everything else here is the og readme. ttyl.
+
+---
+
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/winstxnhdw/ezgif-essentials.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/winstxnhdw/ezgif-essentials/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/winstxnhdw/ezgif-essentials.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/winstxnhdw/ezgif-essentials/context:python)
 
